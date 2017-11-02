@@ -1,7 +1,7 @@
 package com.github.test;
 
 import com.imooc.test.Person;
-
+/**学生类*/
 public class Student {
 
 	private int id;
